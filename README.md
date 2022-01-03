@@ -10,9 +10,11 @@
            The Nitech Japanese Speech Database "NIT SONG070 F001"  
            released by HTS Working Group                           
            http://hts.sp.nitech.ac.jp/                             
- ----------------------------------------------------------------- 
-  Copyright (c) 2004-2015  Nagoya Institute of Technology          
-                           Department of Computer Science      
+           
+           Copyright (c) 2004-2015  Nagoya Institute of Technology  
+           Department of Computer Science  
+----------------------------------------------------------------- 
+    
                            
 ラベルデータは名古屋工業大学が作成した日本語音声データベース「NITSONG070F001」の物を流用しています  
 これは[非移植 (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.ja "クリエイティブ・コモンズ表示3.0")の下でライセンスされています  
