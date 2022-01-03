@@ -26,6 +26,10 @@
 SN1572の利用規約が適用されます  
 また、当コーパスを用いて出力した音声はSN1572の規約が適用されます
 
+# ■視聴動画
+
+[![](https://img.youtube.com/vi/4xizuiT2cwc/0.jpg)](https://www.youtube.com/watch?v=4xizuiT2cwc)
+
 # ■更新履歴
 
  Ver0.1 公開
