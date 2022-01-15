@@ -40,7 +40,7 @@ Twitter：ぱおぱお（@paopaoyumyum）
 
 
 
-# Tsudzuri Yodaka Singing Corpus v0.1 
+# Tsudzuri Yodaka Singing Corpus v0.1 (JP song)
 
 Based on the Japanese speech database "NITSONG070F001" created by Nagoya Institute of Technology.  
 It is a corpus of sung songs whose copyrights have expired, such as nursery rhymes.
